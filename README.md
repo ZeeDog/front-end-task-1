@@ -26,7 +26,7 @@
 - Projeto feito com React
   - Utilizar `create-react-app` e `react-router-dom` caso decida utilizar React
 - Código com acessibilidade (a11y)
-- Hospedar o projeto no Netlify ou Vercel
+- Hospedar o projeto na Netlify ou Vercel
 
 ## Restrições técnicas
 
